@@ -1,0 +1,121 @@
+[
+  { "city": "Delhi", "fuel": "Petrol", "year": 2023, "month": "January", "price": 96.72 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2023, "month": "January", "price": 89.62 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2023, "month": "January", "price": 106.31 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2023, "month": "January", "price": 94.27 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2023, "month": "February", "price": 96.85 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2023, "month": "February", "price": 89.75 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2023, "month": "February", "price": 106.45 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2023, "month": "February", "price": 94.40 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2023, "month": "March", "price": 97.10 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2023, "month": "March", "price": 90.00 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2023, "month": "March", "price": 106.60 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2023, "month": "March", "price": 94.55 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2023, "month": "April", "price": 97.20 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2023, "month": "April", "price": 90.10 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2023, "month": "April", "price": 106.75 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2023, "month": "April", "price": 94.70 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2023, "month": "May", "price": 97.40 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2023, "month": "May", "price": 90.25 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2023, "month": "May", "price": 106.90 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2023, "month": "May", "price": 94.85 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2023, "month": "June", "price": 97.55 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2023, "month": "June", "price": 90.40 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2023, "month": "June", "price": 107.05 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2023, "month": "June", "price": 95.00 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2023, "month": "July", "price": 97.65 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2023, "month": "July", "price": 90.55 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2023, "month": "July", "price": 107.20 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2023, "month": "July", "price": 95.15 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2023, "month": "August", "price": 97.80 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2023, "month": "August", "price": 90.70 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2023, "month": "August", "price": 107.35 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2023, "month": "August", "price": 95.30 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2023, "month": "September", "price": 97.95 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2023, "month": "September", "price": 90.85 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2023, "month": "September", "price": 107.50 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2023, "month": "September", "price": 95.45 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2023, "month": "October", "price": 98.10 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2023, "month": "October", "price": 91.00 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2023, "month": "October", "price": 107.65 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2023, "month": "October", "price": 95.60 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2023, "month": "November", "price": 98.25 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2023, "month": "November", "price": 91.15 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2023, "month": "November", "price": 107.80 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2023, "month": "November", "price": 95.75 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2023, "month": "December", "price": 98.40 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2023, "month": "December", "price": 91.30 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2023, "month": "December", "price": 107.95 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2023, "month": "December", "price": 95.90 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2024, "month": "January", "price": 97.20 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2024, "month": "January", "price": 90.10 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2024, "month": "January", "price": 107.10 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2024, "month": "January", "price": 94.90 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2024, "month": "February", "price": 97.35 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2024, "month": "February", "price": 90.25 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2024, "month": "February", "price": 107.25 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2024, "month": "February", "price": 95.05 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2024, "month": "March", "price": 97.60 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2024, "month": "March", "price": 90.50 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2024, "month": "March", "price": 107.40 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2024, "month": "March", "price": 95.20 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2024, "month": "April", "price": 97.75 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2024, "month": "April", "price": 90.65 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2024, "month": "April", "price": 107.55 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2024, "month": "April", "price": 95.35 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2024, "month": "May", "price": 97.95 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2024, "month": "May", "price": 90.80 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2024, "month": "May", "price": 107.70 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2024, "month": "May", "price": 95.50 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2024, "month": "June", "price": 98.10 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2024, "month": "June", "price": 90.95 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2024, "month": "June", "price": 107.85 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2024, "month": "June", "price": 95.65 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2024, "month": "July", "price": 98.25 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2024, "month": "July", "price": 91.10 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2024, "month": "July", "price": 108.00 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2024, "month": "July", "price": 95.80 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2024, "month": "August", "price": 98.40 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2024, "month": "August", "price": 91.25 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2024, "month": "August", "price": 108.15 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2024, "month": "August", "price": 95.95 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2024, "month": "September", "price": 98.55 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2024, "month": "September", "price": 91.40 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2024, "month": "September", "price": 108.30 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2024, "month": "September", "price": 96.10 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2024, "month": "October", "price": 98.70 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2024, "month": "October", "price": 91.55 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2024, "month": "October", "price": 108.45 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2024, "month": "October", "price": 96.25 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2024, "month": "November", "price": 98.85 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2024, "month": "November", "price": 91.70 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2024, "month": "November", "price": 108.60 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2024, "month": "November", "price": 96.40 },
+
+  { "city": "Delhi", "fuel": "Petrol", "year": 2024, "month": "December", "price": 99.00 },
+  { "city": "Delhi", "fuel": "Diesel", "year": 2024, "month": "December", "price": 91.85 },
+  { "city": "Mumbai", "fuel": "Petrol", "year": 2024, "month": "December", "price": 108.75 },
+  { "city": "Mumbai", "fuel": "Diesel", "year": 2024, "month": "December", "price": 96.55 }
+]
