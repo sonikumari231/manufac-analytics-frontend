@@ -20,3 +20,8 @@ Fuel Price Dashboard built with React, TypeScript, Vite, Mantine, and Apache ECh
    yarn install
 3.Run in development
 yarn dev
+4. Build for production
+   yarn build
+5.Preview production
+yarn preview
+
