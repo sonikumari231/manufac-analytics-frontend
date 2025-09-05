@@ -24,4 +24,8 @@ yarn dev
    yarn build
 5.Preview production
 yarn preview
+Deployment
+
+Live app is deployed on Vercel:
+👉 https://manufac-analytics-frontend.vercel.app
 
